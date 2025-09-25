@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "**/*.yml": "ansible",
+    ".gitlab-ci.yml": "yaml",
+    "*.yml": "yaml",
+    "*.ttslua": "lua",
+    "known_hosts": "plaintext",
+    "*.gs": "javascript",
+    "array": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp"
+  }
+}
